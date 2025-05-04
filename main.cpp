@@ -1,5 +1,6 @@
 // ey.gellis@gmail.com
 #include "squaremat.hpp"
+using namespace matrix;
 #include <iostream>
 #include <vector>
 

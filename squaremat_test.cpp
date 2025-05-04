@@ -2,6 +2,7 @@
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #include "doctest.h"
 #include "squaremat.hpp"
+using namespace matrix;
 #include <stdexcept>
 
 TEST_CASE("SquareMat Construction and Basic Operations") {
